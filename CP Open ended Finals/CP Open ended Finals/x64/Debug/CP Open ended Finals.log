@@ -1,0 +1,3 @@
+﻿  Finals Open ENded.cpp
+C:\Users\W10\source\repos\CP Open ended Finals\CP Open ended Finals\Finals Open ENded.cpp(90,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CP Open ended Finals.vcxproj -> C:\Users\W10\source\repos\CP Open ended Finals\x64\Debug\CP Open ended Finals.exe
